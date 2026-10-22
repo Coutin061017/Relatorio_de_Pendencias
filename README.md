@@ -41,7 +41,7 @@ pip install -r requirements.txt
 python Script.py
 ```
 
-O script gera ou sobrescreve `relatorio_pendencias.xlsx` **no diretório a partir do qual for executado**.
+O script gera ou sobrescreve `relatorio_pendencias.xlsx` **na pasta do próprio projeto**, independentemente do diretório de execução.
 
 ## O que aprendi
 
