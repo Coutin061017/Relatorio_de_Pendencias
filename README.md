@@ -37,7 +37,7 @@ git clone https://github.com/Coutin061017/Relatorio_de_Pendencias.git
 cd Relatorio_de_Pendencias
 python -m venv .venv
 .venv\Scripts\Activate.ps1
-pip install pandas openpyxl
+pip install -r requirements.txt
 python Script.py
 ```
 
